@@ -11,5 +11,5 @@ docker run -p 80:8080 receipt-processor
 http://localhost/swagger-ui/index.html
 
 **Endpoints:** </br>
-POST: http://localhost:8080/receipts/process</br>
-GET: http://localhost:8080/receipts/{id}/points</br>
+POST: http://localhost/receipts/process</br>
+GET: http://localhost/receipts/{id}/points</br>
